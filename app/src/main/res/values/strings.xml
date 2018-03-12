@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Use Of Spinner</string>
+    <string-array name="course">
+        <item>Java</item>
+        <item>Android</item>
+        <item>Kotlin</item>
+        <item>C</item>
+        <item>C++</item>
+    </string-array>
+</resources>
